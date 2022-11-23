@@ -1,0 +1,23 @@
+{
+    "Themes":[
+        {
+            "icon" : "https://1000logos.net/wp-content/uploads/2020/07/Ajio-Logo.jpg",
+            "header" : "AJIO",
+            "clientId": "ajio",
+            "primaryColor" : "#2c4152",
+            "secondaryColor" : "#fffded",
+            "userId": "aditya",
+            "token": "eyJhbGciOiJIUzI1NiJ9.eyJjbGllbnRJZCI6ImFqaW8iLCJ1c2VyTmFtZSI6ImFkaXR5YSIsInVzZXJJZCI6ImFkaXR5YSIsImlzcyI6IlJFVklFV19TRVJWSUNFIiwiaWF0IjoxNjY3ODg1NDg1fQ.j7B2uQiNb_9jXK1G8UX00Q4Q8rSyccPheTciiL23yTg"
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/JioMart_logo.svg/1200px-JioMart_logo.svg.png",
+          "header": "JioMart",
+          "clientId": "jiomart",
+          "primaryColor": "#008ecc",
+          "secondaryColor": "#ececed",
+          "userId": "saba",
+          "token": "eyJhbGciOiJIUzI1NiJ9.eyJjbGllbnRJZCI6Imppb21hcnQiLCJ1c2VyTmFtZSI6InNhYmEiLCJ1c2VySWQiOiJzYWJhIiwiaXNzIjoiUkVWSUVXX1NFUlZJQ0UiLCJpYXQiOjE2Njc4ODU1NTZ9.mumYIHOZVEktL0Nr4QJkm4u2c383OZsOCT_JJ20bueI"
+        }
+    ]
+
+}
